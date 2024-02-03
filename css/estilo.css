@@ -186,10 +186,7 @@ nav {
 /* RESPONSIVIDADE */
 
 @media only screen and (max-device-width: 500px){
-  
-  .article3{
-    display: inline-block;
-  }
+
   .logo{
       opacity: 0;
       /*display: none;*/
